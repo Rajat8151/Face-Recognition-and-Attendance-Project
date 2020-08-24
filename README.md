@@ -4,6 +4,7 @@ In this Project we are going to learn how to perform Facial recognition with hig
 # Steps to do:
 * Code is Done on Pycharm
 * Install Visual Code studio C++ module
-* Intsall all the Libraries
+* Install all the Libraries
+* Install cmake and dlib Libraries as well
 * Change the image storing location according to your requirement.
 * Create an Attendace CSV file 
